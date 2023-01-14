@@ -6,4 +6,15 @@ Command Q2.7 => git status
                         Changes not staged for commit:
                         (use "git add <file>..." to update what will be committed)
                         (use "git restore <file>..." to discard changes in working directory)
+                                modified:   Q2.txtOn branch Newbranch
+Command Q2.8 => git add .
+Command Q2.9 => git status
+            Output :    On branch Newbranch
+                        Changes to be committed:
+                        (use "git restore --staged <file>..." to unstage)
                                 modified:   Q2.txt
+Command Q2.10 =>git commit -m "Answers Q2 in NewBranch"
+
+
+
+
