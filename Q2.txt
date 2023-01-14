@@ -1,0 +1,2 @@
+Command Q2.2 => git clone https://github.com/Thanu1611/Assignment2.git
+Command Q2.4 => git branch NewBranch
