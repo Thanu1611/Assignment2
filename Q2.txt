@@ -14,6 +14,32 @@ Command Q2.9 => git status
                         (use "git restore --staged <file>..." to unstage)
                                 modified:   Q2.txt
 Command Q2.10 =>git commit -m "Answers Q2 in NewBranch"
+Command Q2.13 => git log
+            Output :
+                        commit 35728a6e246257c0e8d3a56130f982c9e106c27c (HEAD -> Newbranch)
+                        Author: Thanu1611 <thanushika199911162gmail.com>
+                        Date:   Sat Jan 14 09:20:16 2023 +0530
+
+                            Answers Q2 in NewBranch
+
+                        commit b3600a69be6535c21f3fca921076ef441b43e75c
+                        Author: Thanu1611 <thanushika199911162gmail.com>
+                        Date:   Sat Jan 14 09:19:49 2023 +0530
+
+                            Answers Q2 in NewBranch
+
+                        commit 2d2d2c31a5d7042e90fdd3af6cbac57ff1f28b76 (main)
+                        Author: Thanu1611 <thanushika199911162gmail.com>
+                        Date:   Sat Jan 14 09:09:07 2023 +0530
+
+                            Answers in Main branch
+
+                        commit b1f56b9e8ad2ad799d2c2f40b243b8ddf8f7ff39 (origin/main, origin/HEAD)
+                        Author: Thedsanamoorthysarma Thanushika <121013173+Thanu1611@users.noreply.github.com>
+                        Date:   Sat Jan 14 09:02:25 2023 +0530
+
+                            Initial commit
+                        (END)
 
 
 
